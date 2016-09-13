@@ -1,0 +1,193 @@
+header {
+    font-family: "Lato";
+    background-color: #2e313d;
+    overflow: auto;
+}
+header ul {
+    margin-top: 25px;
+    margin-right: 10%;
+    float: right;
+
+}
+header li {
+    display: inline;
+    color: #ffffff;
+    margin-left: 25px;
+    font-size: 24px;
+}
+h1 {
+    font-size: 64px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    right: 10%;
+    top: -400px;
+    position: relative;
+    text-align: right;
+    color: #ffffff;
+}
+.text {
+    font-size: 36px;
+    font-family: "LatoLight";
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    top: -350px;
+    position: relative;
+    text-align: right;
+    right: 10%;
+    color: #ffffff;
+}
+.bg {
+    height: 566px;
+    background: url(../images/fon.jpg);
+    background-size: 1440px 566px;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.fon {
+    height: 566px;
+    background: linear-gradient(89deg, rgba(255, 255, 255, 0.05), #000000);
+    opacity: 0.43;
+}
+#about {
+    max-width: 1440px;
+    height: 614px;
+    margin: 0 auto;
+    background-color: #2e313d;
+}
+.heading-white {
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    color: #ffffff;
+}
+.heading-black {
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    color: #2e313d;
+}
+
+.rectangle {
+    width: 6px;
+    height: 33px;
+    background-color: #f5a623;
+    float: left;
+}
+.me {
+    float: right;
+    width: 563px;
+    height: 408px;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+h4 {
+    font-family: "LatoBold";
+    font-size: 24px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+}
+article > p {
+    font-family: "LatoRegular";
+    font-size: 20px;
+    line-height: 1.5;
+    color: #ffffff;
+    margin: 1em;
+}
+article > img {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+h3 {
+    margin-left: 50px;
+    font-family: "LatoBold";
+    font-size: 36px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    word-spacing: 15px;
+    
+}
+#skills {
+    max-width: 1440px;
+    height: 304px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+.list {
+    float: right;
+    width: 563px;
+    height: 304px;
+    margin-right: 10%;
+    margin-top: 5%;
+    color: #2e313d;
+    font-family: "LatoRegular";
+    font-size: 20px;
+    line-height: 2;
+}
+div > ul {
+    margin: 0 0 0 1em;
+}
+#hobbies {
+    max-width: 1440px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: #2e313d;
+}
+.carusel {
+    float: right;
+    margin-right: 10%;
+    font-size: 20px;
+    width: 600px;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "LatoRegular";
+    line-height: 1.5;
+ }
+div p {
+    margin-top: 30px;
+}
+#contact {
+    max-width: 1440px;
+    height: 566px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+form {
+    width: 500px;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+    font-family: "LatoRegular";
+}
+#logo {
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    color: #ffffff;
+    border: solid 2px #ffffff;
+    font-size: 30px;
+    vertical-align: middle;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+}
+footer {
+    max-width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #2e313d;
+}
+footer p {
+    float: left;
+    margin-left: 10%;
+    margin-top: 45px;
+    color: #ffffff;
+    font-size: 20px;
+}
