@@ -118,10 +118,10 @@ h3 {
     background-color: #ffffff;
 }
 .list {
-    float: right;
-    width: 563px;
-    height: 304px;
-    margin-right: 10%;
+    float: left;
+    /*width: 563px;*/
+    /*height: 304px;*/
+    margin-left: 12%;
     margin-top: 5%;
     color: #2e313d;
     font-family: "LatoRegular";
@@ -138,8 +138,9 @@ div > ul {
     background-color: #2e313d;
 }
 .carusel {
-    float: right;
-    margin-right: 10%;
+    margin-top: 5%;
+    float: left;
+    margin-left: 18%;
     font-size: 20px;
     width: 600px;
     font-size: 20px;
