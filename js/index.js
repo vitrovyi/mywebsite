@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$(".navbar").on("click","a", function (event) {
+	$(".container").on("click","a", function (event) {
 		//отменяем стандартную обработку нажатия по ссылке
 		event.preventDefault();
 

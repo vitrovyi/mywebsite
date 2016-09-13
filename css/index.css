@@ -191,3 +191,11 @@ footer p {
     color: #ffffff;
     font-size: 20px;
 }
+
+a { -webkit-transition: color .4s; transition: color .4s; color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover { color: #f5a623; }
+
+a:active { -webkit-transition: color .3s; transition: color .3s; color: #007BE6; }
