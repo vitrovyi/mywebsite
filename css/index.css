@@ -159,7 +159,7 @@ div p {
 form {
     width: 500px;
     float: right;
-    margin-right: 10%;
+    margin-right: 7%;
     margin-top: 2%;
     font-family: "LatoRegular";
 }
@@ -190,6 +190,22 @@ footer p {
     margin-top: 45px;
     color: #ffffff;
     font-size: 20px;
+}
+footer div {
+    float: right;
+    margin-right: 10%;
+    margin-top: 30px;
+}
+    
+footer img {
+    margin-left: 40px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+footer img:hover {
+    background-color: #f5a623;
 }
 
 a { -webkit-transition: color .4s; transition: color .4s; color: #ffffff;
